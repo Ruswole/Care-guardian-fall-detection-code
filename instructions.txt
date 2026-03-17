@@ -1,0 +1,5 @@
+1.Before running the code ensure the dependencies are installed(asked AI what are missing)
+2.python fall_detection_code.py to run code
+3.python -m streamlit run fall_detection_streamlit.py to run streamlit
+4.The model is trained through roboflow 
+5.Further question you can ask me questions on my fb Noralf Russel
